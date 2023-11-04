@@ -13,3 +13,5 @@ Products
 Add to cart
 <img width="1750" alt="Screenshot 2023-11-04 at 5 16 20 PM" src="https://github.com/chinnaraja19/Online-shopping/assets/76144148/744cce6d-ce9e-48c2-b9ab-6401ea7c0756">
 
+File 
+<img width="1123" alt="Screenshot 2023-11-04 at 5 32 08 PM" src="https://github.com/chinnaraja19/Online-shopping/assets/76144148/1c730186-bc80-4252-b62c-564d3e6def7b">
