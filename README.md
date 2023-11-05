@@ -1,6 +1,6 @@
 # Online-shopping
 Shopping Application HTML ,css and javascript,mysql Database.
-Main Page
+Main Page view
 
 <img width="1775" alt="Screenshot 2023-11-04 at 5 15 16 PM" src="https://github.com/chinnaraja19/Online-shopping/assets/76144148/782b3063-88cc-41fb-a79b-6deac5287e94">
 Register 
